@@ -13,18 +13,6 @@
 
 </div>
 
- # Hi, I'm Shubham Kumar 👋  
-
-<div align="center">
-
-![My Skills](https://go-skill-icons.vercel.app/api/icons?i=python,numpy,pandas,googlecolab,jupyter,excel,jira,github,tableau,matplotlib,mysql,powerpoint,pbi,spotfire)
-
-![Header](https://capsule-render.vercel.app/api?type=waving&color=0:4D9FEC,100:12CBC4&height=200&section=header&text=Hi,%20I'm%20Shubham%20Kumar!%20👋&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=30&desc=MBA%20(Digital%20Business)%20|%20Data%20%26%20Business%20Analytics&descAlignY=50)
-
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=4000&pause=1000&color=4D9FEC&center=true&vCenter=true&width=700&lines=Data+Analyst;Business+Analyst;SQL+%7C+Python+%7C+Power+BI;Spotfire+%7C+Excel+%7C+Dashboards;Turning+Data+into+Decisions)](https://git.io/typing-svg)
-
-</div>
-
 ---
 
 ## 🚀 About Me
